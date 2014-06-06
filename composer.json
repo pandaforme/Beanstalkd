@@ -1,0 +1,10 @@
+{
+  "name" : "Beanstalkd",
+  "require" : {
+    "pda/pheanstalk" : "=v2.1.0"
+  },
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ]
+}
